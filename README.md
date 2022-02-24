@@ -1,4 +1,4 @@
-# Machine Learning for Beginners
+# Implementation of classical ML Algorithms from scratch
 
 A collection of various machine learning algorithms implemented from scratch in Python.
 
